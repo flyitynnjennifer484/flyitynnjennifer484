@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm flyitynnjennifer484
 
-<!--
-**flyitynnjennifer484/flyitynnjennifer484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎣 🎽 🏄 A developer in blockchain 🎣 🎽 🏄
 
-Here are some ideas to get you started:
+## About Me
+🎯 🎳 Interested in artificial intelligence 🎯 🎳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥋 🎯 🛶 A coder in full stack development 🥋 🎯 🛶
+
+### Fun Facts
+🎺 🎷 A student of cloud computing 🎺 🎷
+
+---
+🚣 🎳 🏊 🎯 🏓 Thanks for visiting my profile! 🎮 🏄 🌺 🎽 🚣
